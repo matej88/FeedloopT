@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "4251691166",
+    "firebase_url": "https://feedloop-2e801.firebaseio.com",
+    "project_id": "feedloop-2e801",
+    "storage_bucket": "feedloop-2e801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4251691166:android:3cece62647fc0456",
+        "android_client_info": {
+          "package_name": "se.exjobb.feedloopt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4251691166-3eqno08d2o8sgsoo40285kjno2rhn7ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "se.exjobb.feedloopt",
+            "certificate_hash": "D2490D961FEFDA95A820ABDF63C6B8EDD7F45D1C"
+          }
+        },
+        {
+          "client_id": "4251691166-5omq0bmhs5epdokhil2e6l45qdu6aqcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyV-t3VlIXGFc_afPS_Or5MfTVmQbFElo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4251691166-5omq0bmhs5epdokhil2e6l45qdu6aqcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
